@@ -21,15 +21,12 @@
   text-decoration: none;
 }
 
-.side-new{
+.side-new a{
   font-size: 10px;
   border: 1px solid lightblue;
   padding: 14px;
-}
-
-.new-link{
-  color: deepskyblue;
   text-decoration: none;
+  color: deepskyblue;
 }
 
 .rooms {
