@@ -15,9 +15,10 @@
   align-items: center;
 }
 
-.side-name{
+.side-name a{
   color: #FAFAFA;
   font-size: 16px;
+  text-decoration: none;
 }
 
 .side-new{
